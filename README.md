@@ -22,7 +22,7 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 - Create a new schematic cell view for the D flip-flop design.
 
 ### 2. Schematic Design
-- Select NMOS and PMOS transistors from the library.
+ - Select NMOS and PMOS transistors from the library.
 - Design the D flip-flop circuit with key components such as clock signal input, D input, and Q output.
 - Implement feedback connections to enable sequential behavior.
 - Connect appropriate voltage sources for logic control and supply.
